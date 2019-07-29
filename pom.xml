@@ -25,7 +25,7 @@
       <url>http://localhost:8888/repository/MVNPNSNX-REL/</url>  
     </repository>
     <snapshotRepository>
-      <id>deployment></id>
+      <id>snapshot></id>
       <name>VNPNSNX-SNAPSHOT</name>
       <url>http://localhost:8888/repository/MVNPNSNX-SNAPSHOT/</url>  
     </snapshotRepository>
