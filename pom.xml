@@ -21,12 +21,12 @@
   <distributionManagement>
     <repository>
       <id>deployment></id>
-      <name>Internal Snapshot Release</name>
+      <name>MVNPNSNX-REL</name>
       <url>http://localhost:8888/repository/MVNPNSNX-REL/</url>  
     </repository>
     <snapshotRepository>
       <id>deployment></id>
-      <name>Internal Snapshot Release</name>
+      <name>VNPNSNX-SNAPSHOT</name>
       <url>http://localhost:8888/repository/MVNPNSNX-SNAPSHOT/</url>  
     </snapshotRepository>
   </distributionManagement>
