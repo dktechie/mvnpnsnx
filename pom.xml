@@ -21,13 +21,13 @@
   <distributionManagement>
     <repository>
       <id>deployment></id>
-      <name>MVNPNSNX-REL</name>
+      <name>release</name>
       <url>http://localhost:8888/repository/MVNPNSNX-REL/</url>  
     </repository>
     <snapshotRepository>
       <id>snapshot></id>
-      <name>VNPNSNX-SNAPSHOT</name>
-      <url>http://localhost:8888/repository/MVNPNSNX-SNAPSHOT/</url>  
+      <name>snapshot</name>
+      <url>http://localhost:8888/repository/mvnpnsnx-snap/</url>  
     </snapshotRepository>
   </distributionManagement>
   <dependencies>
