@@ -20,12 +20,12 @@
 
   <distributionManagement>
     <repository>
-      <id>deployment></id>
+      <id>nexus-deployment></id>
       <name>release</name>
       <url>http://localhost:8888/repository/MVNPNSNX-REL/</url>  
     </repository>
     <snapshotRepository>
-      <id>snapshot></id>
+      <id>nexus-snapshots</id>
       <name>snapshot</name>
       <url>http://localhost:8888/repository/mvnpnsnx-snap/</url>  
     </snapshotRepository>
